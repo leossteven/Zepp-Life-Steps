@@ -121,7 +121,7 @@ npm run dev
 
 想要自己部署一个实例？超级简单！
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/miloce/Zepp-Life-Steps.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/leossteven/Zepp-Life-Steps.git)
 
 1. 将代码推送到 GitHub 仓库
 2. 在 Vercel 中导入该仓库
